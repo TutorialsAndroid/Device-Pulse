@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">DevicePulse</string>
+
+    <!-- Activity Main -->
+    <string name="cpu_usage">CPU Usage</string>
+    <string name="ram_usage">RAM Usage</string>
+    <string name="storage">Storage</string>
+    <string name="cpu_temperature">CPU Temperature</string>
+
+    <!-- Activity About -->
+    <string name="about_devicepulse">About DevicePulse</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_amp_conditions"><![CDATA[Terms & Conditions]]></string>
+    <string name="contact_developer">Contact Developer</string>
+    <string name="github_profile">GitHub Profile</string>
+    <string name="version_text">Version: %1$s</string>
+
+    <!-- Menu -->
+    <string name="menu_settings">About</string>
+
+    <!-- Privacy Dialog -->
+    <string name="privacyDialogMessage"><![CDATA[By using DevicePulse, you agree to our Privacy Policy and Terms & Conditions.]]></string>
+    <string name="privacyDialogTitle"><![CDATA[Privacy & Terms]]></string>
+    <string name="privacyDialogPButton">I Accept</string>
+    <string name="privacyDialogNButton">Exit</string>
+</resources>

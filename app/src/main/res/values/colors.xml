@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Palette -->
+    <color name="primary_dark">#00254A</color>
+    <color name="primary_variant">#3C435A</color>
+    <color name="secondary_accent">#FFAC91</color>
+    <color name="secondary_variant">#E8A08B</color>
+    <color name="surface_card">#3C435A</color>
+    <color name="background_dark">#00254A</color>
+    <color name="accent_progress">#FFAC91</color>
+
+    <!-- Text -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#E8A08B</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>
